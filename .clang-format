@@ -1,0 +1,14 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+AccessModifierOffset: -4
+BreakBeforeBraces: Allman
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: false
+InsertBraces: true
+ColumnLimit: 100
+SortIncludes: Never
+ReflowComments: false
+BreakStringLiterals: false
+PointerAlignment: Left
+ReferenceAlignment: Left

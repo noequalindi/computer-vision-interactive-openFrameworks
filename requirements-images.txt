@@ -1,0 +1,7 @@
+# Solo con --images; inferencia local CPU / CUDA / Metal (MPS).
+torch>=2.4,<3
+diffusers>=0.32,<0.37
+transformers>=4.46,<5
+accelerate>=1,<2
+safetensors>=0.4,<1
+huggingface-hub>=0.27,<1
